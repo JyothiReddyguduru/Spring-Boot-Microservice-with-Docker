@@ -59,3 +59,13 @@ mapping between java objects and DB objects is provided
 
 
 Spring profiles
+
+
+
+
+
+Things to workon
+
+automatic java imports
+ordering of imports
+
